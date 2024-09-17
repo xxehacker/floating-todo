@@ -44,7 +44,11 @@
 
 ##  Video Demo
 
-<iframe width="560" height="315" src="https://youtu.be/UwMY3aSCzA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- not working iframe -->
+
+## Video Demo
+<!-- [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY) -->
+[![Watch the video](https://img.youtube.com/vi/UwMY3aSCzA4/maxresdefault.jpg)](https://youtu.be/UwMY3aSCzA4)
 
 
 ##  Features
